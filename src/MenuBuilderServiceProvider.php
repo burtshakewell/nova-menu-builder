@@ -9,7 +9,7 @@ use Aiman\MenuBuilder\Http\Resources\MenuResource;
 use Laravel\Nova\Events\ServingNova;
 use Laravel\Nova\Nova;
 
-class ToolServiceProvider extends ServiceProvider
+class MenuBuilderServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap any application services.
